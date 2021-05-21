@@ -1,0 +1,31 @@
+.counter-container {
+  font-weight: bold;
+  margin: 1em auto;
+  border: 1px solid black;
+}
+
+.counter-count {
+  font-size: 8em;
+  text-align: center;
+}
+
+.counter-controls {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+}
+
+.counter-btn {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: white;
+  border: 5px solid black;
+  color: black;
+  margin: 0 1em;
+  padding: 1em;
+}
+
+.counter-btn:hover {
+  color: white;
+  background-color: black;
+}
